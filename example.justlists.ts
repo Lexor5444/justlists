@@ -128,5 +128,13 @@
         "major":1,
         "minor":0
     },
+    {
+            "symbol":"Pino",
+            "address":"TAbkLGngV1k8bNb5hnqW7oX46FG4Dbs5e2",
+            "chainId":1,
+            "decimals":18,
+            "name":"Pino The Dino",
+            "logoURI":"https://media.discordapp.net/attachments/1024004788939137035/1282033584244523081/IMG_5208.png?ex=66e1d6d1&is=66e08551&hm=9cb5fab0bbd5c269461c9bd8578b9d5853c55be065db634faf6d51a46dc4794b&=&format=webp&quality=lossless&width=200&height=200"
+        },
     "timestamp":1611147166000
 }
